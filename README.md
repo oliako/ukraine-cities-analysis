@@ -18,13 +18,12 @@ This is a pet project based on my personal interests. I am curious about Ukraini
 
 
 ## Dataset 
-Unfortunately I couldn't find a proper dataset with relevant information. Most of data is of 2022 latest. I realise that current cituations differs a lot and I wish there was new data.
-The dataset contains 100 Ukrainian cities, including:
-All oblast capitals (25 cities)
-Most cities with population over ~50,000
-A few smaller cities for regional coverage
-Cities in temporarily occupied territories (Donetsk, Luhansk, Mariupol) are included 
-The dataset was made by claude ai using Wikipedia and State Statistics Service of Ukraine data. I randomly checked the information. I also have a good knowledge so I cuold spot if somwthing was odd.
+Unfortunately, I could not find a single up-to-date dataset containing all the information I needed. Most publicly available data was last updated in 2022.
+
+The final dataset contains 100 Ukrainian cities, including all 25 oblast capitals, most cities with populations above 50,000, and several smaller cities for regional coverage. Cities in temporarily occupied territories are also included.
+
+The dataset was compiled using information from Wikipedia and the State Statistics Service of Ukraine. I manually reviewed a sample of the records to validate the data.
+
 
 ## EDA 
 The data was mostly clean and required minimal preprocessing.
