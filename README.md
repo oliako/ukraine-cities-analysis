@@ -1,5 +1,5 @@
-## Ukrainian Cities: Population, Area and Density
-## Project Overview
+# Ukrainian Cities: Population, Area and Density
+# Project Overview
 This is a pet project based on my personal interests. I am curious about Ukrainian geography and demographics. My dad and my brother would always test my knowledge on this matter. I love facts as well. 
 
 ## Questions
@@ -14,8 +14,6 @@ This is a pet project based on my personal interests. I am curious about Ukraini
 - How does Kyiv compare to other Ukrainian cities?
 - Which oblasts contain the largest cities?
 - What interesting facts can be discovered about Ukrainian cities through data analysis?
-
-
 
 ## Dataset 
 Unfortunately, I could not find a single up-to-date dataset containing all the information I needed. Most publicly available data was last updated in 2022.
@@ -52,10 +50,10 @@ Population density varies significantly across Ukrainian cities. Several medium-
 
 ![Population vs Area](images/population_vs_area.png)
 
-There is a strong positive relationship between city area and population (correlation coefficient: 0.87). Kyiv stands out as a clear outlier.
+There is a strong positive relationship between city area and population (correlation coefficient: 0.87).
 
 ## Key Insights
-- Kyiv is a clear outlier, having both the largest population and the largest area among the cities in the dataset.
+- Kyiv has the largest population and the largest area among the cities in the dataset.
 - Population and area show a strong positive correlation (r = 0.87).
 - Larger cities generally tend to have larger populations.
 - Population size and population density are not the same.
@@ -73,6 +71,10 @@ Key findings:
 - Density rank: 10th out of 100 cities analyzed
 
 Although Kamianets-Podilskyi is not among the largest Ukrainian cities by population, it is one of the most densely populated cities in the dataset.
+
+## Unexpected Findings
+
+- Makiivka, my father's hometown, turned out to be the third-largest city by area in the dataset, which was a surprising discovery.
 
 ## Technologies Used
 
